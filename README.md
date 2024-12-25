@@ -28,13 +28,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] Solved
 
 ## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+- [X] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
 
 - [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [X] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
@@ -45,9 +45,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [X] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
@@ -59,13 +59,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Fast and Slow Pointers
 
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [X] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
