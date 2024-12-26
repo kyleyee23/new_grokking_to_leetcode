@@ -69,11 +69,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [X] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
@@ -81,7 +81,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/) (completed non-noptimally, nlog(n))
 
 - [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
@@ -103,7 +103,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Two Heaps
 
-- [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
+- [X] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
 - [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
