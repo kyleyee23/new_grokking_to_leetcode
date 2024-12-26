@@ -419,11 +419,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Bitwise Manipulation
 
-- [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+- [X] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
-- [ ] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
+- [X] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
 
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [X] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
 
