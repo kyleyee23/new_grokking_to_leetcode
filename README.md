@@ -119,9 +119,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [X] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
@@ -143,7 +143,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Modified Binary Search
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [X] [Binary Search](https://leetcode.com/problems/binary-search/)
 
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
@@ -153,7 +153,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
-- [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [X] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 - [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
