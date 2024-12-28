@@ -129,13 +129,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
-- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+- [X] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [X] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
@@ -159,7 +159,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
 
 - [ ] [Permutations](https://leetcode.com/problems/permutations/)
 
@@ -167,7 +167,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-- [ ] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
+- [X] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)? ** THIS IS A GOOD PROBLEM**
 
 ## Greedy Techniques
 
@@ -409,7 +409,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
-- [ ] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [X] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 - [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
