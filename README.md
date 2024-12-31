@@ -209,23 +209,23 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [X] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [X] [Word Break](https://leetcode.com/problems/word-break/) **X2**
 
-- [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
+- [X] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [X] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [X] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [X] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
