@@ -247,13 +247,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Compilation Order]()?
 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [X] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
-- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [X] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 - [ ] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
@@ -339,7 +339,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Trie
 
-- [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [X] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 - [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
@@ -411,7 +411,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-- [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [X] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 
